@@ -1,0 +1,13 @@
+D:\GiangDay\C#\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\GiangDay\C#\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\GiangDay\C#\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\GiangDay\C#\QLSV\QLSV\obj\Debug\QLSV.frm_login.resources
+D:\GiangDay\C#\QLSV\QLSV\obj\Debug\QLSV.frm_main.resources
+D:\GiangDay\C#\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\GiangDay\C#\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\GiangDay\C#\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\GiangDay\C#\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\GiangDay\C#\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\GiangDay\C#\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\GiangDay\C#\QLSV\QLSV\obj\Debug\QLSV.exe.config
+D:\GiangDay\C#\QLSV\QLSV\obj\Debug\QLSV.LopHoc.resources
